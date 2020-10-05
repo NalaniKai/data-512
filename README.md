@@ -1,2 +1,2 @@
 # data-512
-Assignments for DATA 512 Human Centered Data Science
+Megan Nalani Chun's assignments for DATA 512 Human Centered Data Science
