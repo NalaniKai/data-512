@@ -19,8 +19,19 @@ PageCounts endpoint: https://wikimedia.org/api/rest_v1/#/Pageviews_data/get_metr
 PageViews documentation: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews  
 PageViews endpoint: https://wikimedia.org/api/rest_v1/#/Pageviews%20data
 
-## final data file, en-wikipedia_traffic_200801-202008.csv
-Column : Value  
+## outputs
+Outputs include: 
+A. the raw data from the APIs in json format  
+B. the final data file  
+C. the image of the time series chart  
+
+### A. the raw data from the APIs in json format   
+These 5 json files have the format apiname_accesstype_firstyearmonth-lastyearmonth.json where yearmonth is YYYYMM.  
+
+### B. the final data file
+The final time series data can be found in [en-wikipedia_traffic_200801-202008.csv](https://github.com/NalaniKai/data-512/blob/main/data-512-a1/en-wikipedia_traffic_200801-202008.csv)  
+
+This file has the following columns : values where pageview_mobile_views is the sum of the mobile app and mobile web pageview data from the pageview API.  
   
 year : YYYY  
 month : MM  
@@ -31,6 +42,10 @@ pageview_all_views : num_views
 pageview_desktop_views : num_views  
 pageview_mobile_views : num_views  
 
+### C. the image of the time series chart 
+The final chart image can be found in [Time Series.png](https://github.com/NalaniKai/data-512/blob/main/data-512-a1/Time%20Series.png).
+
 ## special considerations
 - data from the Pageview API excludes spiders/crawlers, while data from the Pagecounts API does not
 - mobile data is available starting October 2014
+- all views indicate the sum of the mobile and desktop views
