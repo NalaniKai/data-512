@@ -8,19 +8,19 @@ The goal of this assignment is to construct, analyze, and publish a dataset of m
 1. Open the jupyter notebook [StepByStepNotebook.ipynb](https://github.com/NalaniKai/data-512/blob/main/data-512-a1/StepByStepNotebook.ipynb)
 2. Follow the steps inside the notebook and run each cell in order, installing the specified libraries as needed. There are three main secions for gathering the data, processing the data, and analyzing the data through a time series chart. 
 
-## source data
-License:  
+## data sources
+License: https://creativecommons.org/licenses/by-sa/3.0/  
 Wikimedia Foundation REST API terms of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions 
 
-## relevant API documentation
-https://www.mediawiki.org/wiki/Wikimedia_REST_API  
+### relevant API documentation
+API: https://www.mediawiki.org/wiki/Wikimedia_REST_API  
 PageCounts documentation: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts  
 PageCounts endpoint: https://wikimedia.org/api/rest_v1/#/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end  
 PageViews documentation: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews  
 PageViews endpoint: https://wikimedia.org/api/rest_v1/#/Pageviews%20data
 
 ## outputs
-Outputs include: 
+Outputs include:  
 A. the raw data from the APIs in json format  
 B. the final data file  
 C. the image of the time series chart  
