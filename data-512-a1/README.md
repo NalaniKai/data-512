@@ -49,4 +49,3 @@ The final chart image can be found in [Time Series.png](https://github.com/Nalan
 - data from the Pageview API excludes spiders/crawlers, while data from the Pagecounts API does not
 - mobile data is available starting October 2014
 - all views indicate the sum of the mobile and desktop views
-- the license for this project is the license in the main folder for this repo
