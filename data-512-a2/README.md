@@ -7,9 +7,9 @@ The goal of this assignment is to identify sources of bias in a corpus of human 
 ## Steps to Reproduce 
 1. Open the jupyter notebook [StepByStepNotebook.ipynb](https://github.com/NalaniKai/data-512/blob/main/data-512-a2/StepByStepNotebook.ipynb)
 2. Follow the steps inside the notebook and run each cell in order, installing the specified libraries as needed. There are three main secions for:
-- Step 0: Background research & gathering the data
-- Step 1: Select and perform analysis
-- Step 2: Discussing further implications
+    - Step 0: Background research & gathering the data
+    - Step 1: Select and perform analysis
+    - Step 2: Discussing further implications
 
 ## Data Sources
 The Wikipedia Talk personal attack and toxicity datasets used in this project can be found in [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731).  
@@ -28,4 +28,4 @@ Descriptions and schemas can be found [here](https://meta.wikimedia.org/wiki/Res
 [Overview of Research: Detox](https://meta.wikimedia.org/wiki/Research:Detox).  
 
 ## Data Visualizations
-Data visualizations created in the [StepByStepNotebook.ipynb](https://github.com/NalaniKai/data-512/blob/main/data-512-a2/StepByStepNotebook.ipynb) notebook can be found in the [images](___) folder. 
+Data visualizations created in the [StepByStepNotebook.ipynb](https://github.com/NalaniKai/data-512/blob/main/data-512-a2/StepByStepNotebook.ipynb) notebook can be found in the [images](https://github.com/NalaniKai/data-512/tree/main/data-512-a2/images) folder. 
