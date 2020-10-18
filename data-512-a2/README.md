@@ -1,8 +1,8 @@
 # Data-512-A2
-This is Megan Nalani Chun's second assignment for DATA 512 Human Centered Data Science. Last modified _____.
+This is Megan Nalani Chun's second assignment for DATA 512 Human Centered Data Science. Last modified 10/18/2020.
 
 ## Goal
-The goal of this assignment is to identify sources of bias in a corpus of human annotated data and describe the implications of those biases by developing testable hypotheses about how these biases might impact the behavior of machine learning models trained on the data when those models are used for research purposes or to power data driven applications. 
+The goal of this assignment is to identify sources of bias in the Wikipedia Talk personal attack and toxicity datasets which is a corpus of human annotated data and to describe the implications of those biases by developing testable hypotheses about how these biases might impact the behavior of machine learning models trained on the data when those models are used for research purposes or to power data driven applications. 
 
 ## Steps to Reproduce 
 1. Open the jupyter notebook [StepByStepNotebook.ipynb](https://github.com/NalaniKai/data-512/blob/main/data-512-a2/StepByStepNotebook.ipynb)
@@ -28,4 +28,4 @@ Descriptions and schemas can be found [here](https://meta.wikimedia.org/wiki/Res
 [Overview of Research: Detox](https://meta.wikimedia.org/wiki/Research:Detox).  
 
 ## Data Visualizations
-Data visualizations created in the [StepByStepNotebook.ipynb](https://github.com/NalaniKai/data-512/blob/main/data-512-a2/StepByStepNotebook.ipynb) notebook can be found in the [images](https://github.com/NalaniKai/data-512/tree/main/data-512-a2/images) folder. 
+Data visualizations created in the [StepByStepNotebook.ipynb](https://github.com/NalaniKai/data-512/blob/main/data-512-a2/StepByStepNotebook.ipynb) notebook can be found in the [images](https://github.com/NalaniKai/data-512/tree/main/data-512-a2/images) folder along with the datasets used to create the visualiztions in csv format. 
