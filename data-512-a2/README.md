@@ -29,3 +29,7 @@ Descriptions and schemas can be found [here](https://meta.wikimedia.org/wiki/Res
 
 ## Data Visualizations
 Data visualizations created in the [StepByStepNotebook.ipynb](https://github.com/NalaniKai/data-512/blob/main/data-512-a2/StepByStepNotebook.ipynb) notebook can be found in the [images](https://github.com/NalaniKai/data-512/tree/main/data-512-a2/images) folder along with the datasets used to create the visualiztions in csv format. 
+
+[Demographics Distributions: Personal Attacks](https://github.com/NalaniKai/data-512/blob/main/data-512-a2/images/PersonalAttackDemographicsDistributions.png)  
+
+[Disagreement](https://github.com/NalaniKai/data-512/blob/main/data-512-a2/images/DisagreementDistributions.png)
