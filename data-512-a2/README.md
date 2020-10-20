@@ -1,5 +1,5 @@
 # Data-512-A2
-This is Megan Nalani Chun's second assignment for DATA 512 Human Centered Data Science. Last modified 10/18/2020.
+This is Megan Nalani Chun's second assignment for DATA 512 Human Centered Data Science. Last modified 10/19/2020.
 
 ## Goal
 The goal of this assignment is to identify sources of bias in the Wikipedia Talk personal attack and toxicity datasets which is a corpus of human annotated data and to describe the implications of those biases by developing testable hypotheses about how these biases might impact the behavior of machine learning models trained on the data when those models are used for research purposes or to power data driven applications. 
